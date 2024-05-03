@@ -1,12 +1,7 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
-  <div>
-    Vue3 Template
-  </div>
+  <div>Vue3 Template</div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
